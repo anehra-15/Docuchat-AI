@@ -1,7 +1,8 @@
-streamlit # for front end
-google-generativeai # for gemini pro
-python-dotenv # to load all the environment variables
-langchain # framework for llm based app development
-PyPDF2 # for reading pdfs
-faiss-cpu # for vector embeddings
-langchain_google_genai # for accessing google gen ai apis using langchain
+streamlit 
+google-generativeai 
+python-dotenv 
+langchain 
+PyPDF2 
+faiss-cpu 
+langchain_google_genai 
+
