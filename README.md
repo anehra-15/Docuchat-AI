@@ -32,6 +32,6 @@ DocuChat AI is a Streamlit web application that enables users to upload PDF docu
 
 ## Architecture Diagram
 
-![alt text](img/p6.PNG)
+![alt text](img/Untitled Diagram.drawio.png)
 
 ---
